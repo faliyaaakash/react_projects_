@@ -1,5 +1,6 @@
 import React from "react";
 import {Link,NavLink} from "react-router-dom"
+
 export default function Home() {
     return (
         <div className="mx-auto w-full max-w-7xl">
@@ -19,7 +20,7 @@ export default function Home() {
                                 fill="white"
                                 width="24"
                                 height="24"
-                                xmlns="http://www.w3.org/2000/svg"
+                                xmlns="https://media.istockphoto.com/id/1972286424/photo/digital-security-and-privacy-background-cyber-and-crypto-security-shield-on-futuristic-screen.webp?s=2048x2048&w=is&k=20&c=1Jn-fCh-avCdjpcyVCECGLOC6McBQ1k1OBrkxwFr-1U="
                                 fillRule="evenodd"
                                 clipRule="evenodd"
                             >
